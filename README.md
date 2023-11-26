@@ -1,4 +1,4 @@
-<img align="center" src="https://giphy.com/embed/zi5qv1oJ6UVxZ57mm3" alt="pvvlova" />
+<img align="center" src="https://giphy.com/gifs/zi5qv1oJ6UVxZ57mm3" alt="pvvlova" />
 <div style="width:100%;height:0;padding-bottom:33%;position:relative;">
 <h1 align="center"> About me 🪸🫧 </h1>
 <h3 align="center">I'm a Front end Web Developer living in NY! 🌃 🇺🇸</h3>
