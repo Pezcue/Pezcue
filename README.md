@@ -1,3 +1,4 @@
+<img align="center" src="https://imgur.com/a/tiPYxDQ" alt="pvvlova" />
 <h1 align="center"> About me 🪸🫧 </h1>
 <h3 align="center">I'm a Front end Web Developer living in NY! 🌃 🇺🇸</h3>
 
@@ -5,7 +6,7 @@
 
 - 👩‍💻 All of my finalized projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
 
-- 💬 Ask me about **HTML, UI/UX Design, Pseudo-code Pseint**
+- 💬 Ask me about HTML, UI/UX Design, Pseudo-code Pseint
 
 - ⚡ Fun fact: I come from an extinct indigenous group called the **JiraJara** from South America. 👧🏽🦜🥭 
 
