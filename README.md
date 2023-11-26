@@ -9,7 +9,7 @@
 
 - 💬 Ask me about HTML, UI/UX Design, Pseudo-code Pseint
 
-- ⚡ Fun fact: I come from an extinct indigenous group called the **JiraJara** from South America. 👧🏽🦜🥭 
+- ⚡ Fun fact: I'm from native 👧🏽🦜🥭 
 
 ---
 <h3 align="left">Connect with me:</h3>
