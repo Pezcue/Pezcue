@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Pezcue</h1>
-<h3 align="center">a Front end Web Developer from NYC!</h3>
+<h1 align="center">Hi 👋, I'm Valentina</h1>
+<h3 align="center">a 🫧 Front end 🪸 Web Developer from NYC! 🌃</h3>
 
 - 🌱 I’m currently learning **JavaScript proficiency and programming logic**
 
-- 👨‍💻 All of my projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
+- 👩‍💻 All of my projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
 
 - 📝 I regularly write articles on [https://medium.com/@Valtinas](https://medium.com/@Valtinas)
 
 - 💬 Ask me about **HTML, UI/UX Design, Pseint**
 
-- 📫 How to reach me **fatpezcuezo@gmail.com**
 
-- 📄 Know about my experiences [https://pezcue.github.io/ImValentina/Valentina_Silva_Resume.pdf](https://pezcue.github.io/ImValentina/Valentina_Silva_Resume.pdf)
 
-- ⚡ Fun fact **I come from an extinct indigenous group called the JiraJara from South America.**
+- ⚡ Fun fact **I come from an extinct indigenous group called the JiraJara from South America. 👧🏽🦜🥭 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
