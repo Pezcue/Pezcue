@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Valentina</h1>
-<h3 align="center">a 🫧 Front end 🪸 Web Developer from NYC! 🌃</h3>
+<h1 align="center"> About me 🪸🫧 </h1>
+<h3 align="center">I'm a Front end Web Developer living in NY! 🌃 🇺🇸</h3>
 
-- 🌱 I’m currently learning **JavaScript proficiency and programming logic**
+- 🌱 I’m currently learning JavaScript proficiency and programming logic.
 
-- 👩‍💻 All of my projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
+- 👩‍💻 All of my finalized projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
 
-- 📝 I regularly write articles on [https://medium.com/@Valtinas](https://medium.com/@Valtinas)
+- 💬 Ask me about **HTML, UI/UX Design, Pseudo-code Pseint**
 
-- 💬 Ask me about **HTML, UI/UX Design, Pseint**
+- ⚡ Fun fact: I come from an extinct indigenous group called the **JiraJara** from South America. 👧🏽🦜🥭 
 
-
-
-- ⚡ Fun fact **I come from an extinct indigenous group called the JiraJara from South America. 👧🏽🦜🥭 **
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/pezcue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pezcue" height="30" width="40" /></a>
