@@ -1,5 +1,5 @@
-<img align="center" src="[https://imgur.com/a/tiPYxDQ](https://giphy.com/gifs/zi5qv1oJ6UVxZ57mm3)" alt="pvvlova" />
-<div style="width:100%;height:0;padding-bottom:33%;position:relative;"><iframe src="https://giphy.com/embed/zi5qv1oJ6UVxZ57mm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/zi5qv1oJ6UVxZ57mm3">via GIPHY</a></p>
+<img align="center" src="https://giphy.com/embed/zi5qv1oJ6UVxZ57mm3" alt="pvvlova" />
+<div style="width:100%;height:0;padding-bottom:33%;position:relative;">
 <h1 align="center"> About me 🪸🫧 </h1>
 <h3 align="center">I'm a Front end Web Developer living in NY! 🌃 🇺🇸</h3>
 
