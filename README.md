@@ -3,7 +3,7 @@
 <h1 align="left"> About me 🪸🫧 </h1>
 <h3 align="left">I'm a Front end Web Developer living in NY! 🌃 🇺🇸</h3>
 
-- 🌱 I’m currently learning JavaScript proficiency and programming logic.
+- 🌱 I’m currently learning Java.
 
 - 👩‍💻 All of my finalized projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
 
