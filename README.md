@@ -1,15 +1,12 @@
 [![MasterHead](https://media2.giphy.com/media/zi5qv1oJ6UVxZ57mm3/giphy.gif)](https://github.com/Pezcue)
 <div style="width:100%;height:0;padding-bottom:33%;position:relative;">
 <h1 align="left"> About me 🪸🫧 </h1>
-<h3 align="left">I'm a Front end Web Developer living in NY! 🌃 🇺🇸</h3>
+<h3 align="left">I'm a Front end Web Developer living in NY 🌃 🇺🇸</h3>
 
-- 🌱 I’m currently learning Java.
+- 🌱 Currently learning Java.
 
-- 👩‍💻 All of my finalized projects are available at [https://pezcue.github.io/ImValentina/](https://pezcue.github.io/ImValentina/)
 
-- 💬 Ask me about HTML, UI/UX Design, Pseudo-code Pseint
 
-- ⚡ Fun fact: I'm native 👧🏽🦜🥭 
 
 ---
 <h3 align="left">Connect with me:</h3>
