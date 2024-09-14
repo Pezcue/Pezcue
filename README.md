@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/zi5qv1oJ6UVxZ57mm3/giphy.gif)](https://github.com/Pezcue)
+
 <div style="width:100%;height:0;padding-bottom:33%;position:relative;">
 <h1 align="left"> About me 🪸🫧 </h1>
 <h3 align="left">I'm a Front end Web Developer living in NY 🌃 🇺🇸</h3>
